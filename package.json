@@ -1,0 +1,16 @@
+{
+  "name": "mashbot",
+  "version": "1.0.0",
+  "description": "MASHbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+      //start: code
+  },
+  "author": "Megan Brust",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^7.2.3"
+  }
+}
